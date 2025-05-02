@@ -41,7 +41,6 @@
 - RAG & **Agentic AI** workflows
 - Designing **pragmatic, evolvable APIs** that delight consumers
 
----
 <!--
 ## 🧰 Tech Toolbox
 - **Languages & Paradigms** · Java 21 • Scala • Python • SQL/PostgreSQL
@@ -50,8 +49,7 @@
 - **Lakehouse & Analytics** · Iceberg • Delta Lake • Druid • Databricks • ClickHouse
 - **Frameworks** · Spring • Hibernate
 - **Observability & Ops** · Prometheus • Grafana • ELK • Jenkins • Git
--->  
-## 🧰 Tech Toolbox
+
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
@@ -59,7 +57,7 @@
     />
   </a>
 </p>
-  
+-->  
 ---
   
 ## 📬 Connect
