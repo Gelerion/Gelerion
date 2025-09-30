@@ -33,6 +33,7 @@
 | [`traffic-replay`](https://github.com/Gelerion/traffic-replay) | Capture & replay prod traffic for safer testing | Java, Kafka, Dropwizard, Grafana |
 | [`spark-bin-packing-partitioner`](https://github.com/Gelerion/spark-bin-packing-partitioner) | Fix data skew with bin-packing | Spark Core, Scala |
 | [`security-in-action-natter-api`](https://github.com/Gelerion/security-in-action-natter-api) | Modern web-security patterns in action | TLS, OAuth2, JWT |
+| [`otel-playground`](https://github.com/Gelerion/otel-playground) | OpenTelemetry observability stack in action | Traces, Metrics & logs, OpenTelemetry, the LGTM stack |
   
 ---
 
