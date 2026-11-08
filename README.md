@@ -14,7 +14,7 @@
 
 I work on AI agent architecture and security, with a background in distributed systems, JVM engineering, and real-time data platforms. On the blog I write about the trade-offs and failure modes that show up when these systems reach production.
 
-## What I work on
+## What I Build & Explore
 
 - **AI agents and security:** Agent runtimes, memory and context engineering, authorization, tool security, and evaluation.
 - **Distributed systems and API:s** Cloud-native services, event-driven architecture, resilience, and practical API design.
