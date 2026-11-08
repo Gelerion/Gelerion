@@ -1,8 +1,7 @@
-<!-- Hero / Banner -->
-<h1 align="center">Hi 👋 I’m Denis “Gelerion” Shuvalov</h1>
+<h1 align="center">Hi, I'm Denis (Gelerion) 👋</h1>
+
 <p align="center">
-  <strong>Principal Software Engineer · Cloud & Data Architect · OSS tinkerer</strong><br/>
-  <em>Designing high-performance microservices, real-time streaming pipelines & big-data wizardry</em>
+  <strong>Software Architect · AI Agent Security · Distributed Systems</strong>
 </p>
 
 <p align="center">
@@ -13,73 +12,54 @@
   <img src="https://img.shields.io/badge/coffee%20consumed-∞-yellow" alt="Coffee">
 </p>
 
----
+I design and build systems that need to be reliable and secure at scale, from data-intensive applications and streaming platforms to the infrastructure behind production AI agents.
 
-## 🚀 What I’m Building & Exploring
-- **Cloud-native platforms** – AWS, Kubernetes, Terraform, GitOps
-- **Streaming & CDC pipelines** – Kafka, Debezium, Flink, Spark Structured Streaming
-- **Data-intensive apps** – Apache Spark, Iceberg, Trino, Druid
-- **Performance & observability** – JMH, eBPF, Prometheus, Grafana
-- **AI quality evaluation** – Gen-AI test harnesses & RAG metrics
-- **Occasional deep dives** into JVM internals, advanced functional-programming patterns (Monad, Monoid, Functor & friends), and robust security/RBAC 🔐
+Most of my current work focuses on AI agent architecture and security. My background is in distributed systems, JVM engineering, and real-time data platforms. I also write about the design choices, trade-offs, and failure modes that come with taking systems to production.
 
----
+## What I work on
 
-## ✨ Featured Repos
-| Project | TL;DR | Tech Highlights |
-|---------|-------|-----------------|
-| [`spark-sketches`](https://github.com/Gelerion/spark-sketches) | Probabilistic DataSketches inside Spark for blazing-fast count-distinct | Scala, Spark, Apache DataSketches |
-| [`real-time-analytics`](https://github.com/Gelerion/real-time-analytics) | End-to-end CDC → Kafka → Presto demo | Kafka, Postgres, Debezium, Presto |
-| [`traffic-replay`](https://github.com/Gelerion/traffic-replay) | Capture & replay prod traffic for safer testing | Java, Kafka, Dropwizard, Grafana |
-| [`spark-bin-packing-partitioner`](https://github.com/Gelerion/spark-bin-packing-partitioner) | Fix data skew with bin-packing | Spark Core, Scala |
-| [`security-in-action-natter-api`](https://github.com/Gelerion/security-in-action-natter-api) | Modern web-security patterns in action | TLS, OAuth2, JWT |
-| [`otel-playground`](https://github.com/Gelerion/otel-playground) | OpenTelemetry observability stack in action | Traces, Metrics & logs, OpenTelemetry, the LGTM stack |
-  
----
+- **AI agents and security:** Agent runtimes, memory and context engineering, authorization, tool security, and evaluation.
+- **Distributed systems and API:s** Cloud-native services, event-driven architecture, resilience, and practical API design.
+- **Streaming and data platforms:** Kafka, CDC, Spark, Flink, and real-time analytics.
+- **JVM internals and performance:** Java, Scala, concurrency, profiling, and runtime optimization.
 
-## 🌱 Currently Learning
-- Modern **Data Mesh** patterns & federated governance
-- RAG & **Agentic AI** workflows
-- Designing **pragmatic, evolvable APIs** that delight consumers
+## Selected projects
 
-<!--
-## 🧰 Tech Toolbox
-- **Languages & Paradigms** · Java 21 • Scala • Python • SQL/PostgreSQL
-- **Cloud & DevOps** · AWS • Kubernetes (K8s) • Docker • Terraform • Argo CD
-- **Streaming & Batch** · Kafka • Spark • Flink • Airflow
-- **Lakehouse & Analytics** · Iceberg • Delta Lake • Druid • Databricks • ClickHouse
-- **Frameworks** · Spring • Hibernate
-- **Observability & Ops** · Prometheus • Grafana • ELK • Jenkins • Git
+| Project | Description |
+| --- | --- |
+| [traffic-replay](https://github.com/Gelerion/traffic-replay) | Replay HTTP traffic from Kafka into test environments for load testing and system validation. |
+| [spark-sketches](https://github.com/Gelerion/spark-sketches) | Approximate distinct counting in Apache Spark using probabilistic DataSketches. |
+| [otel-playground](https://github.com/Gelerion/otel-playground) | Hands-on experiments with OpenTelemetry and manual instrumentation. |
+| [security-in-action-natter-api](https://github.com/Gelerion/security-in-action-natter-api) | Examples of API security, access control, and cryptography. |
+| [spark-bin-packing-partitioner](https://github.com/Gelerion/spark-bin-packing-partitioner) | Bin-packing approaches to reducing data skew in Spark. |
+
+[Explore all repositories](https://github.com/Gelerion?tab=repositories)
+
+## From the blog
+
+- [Beyond Conversation History: Building Reliable Memory for AI Agents](https://gelerion.github.io/posts/2026/11/beyond-conversation-history-reliable-memory-for-ai-agents/): Designing a runtime memory layer that carries useful knowledge across sessions.
+- [OpenTelemetry Foundations: What Is a Signal?](https://gelerion.github.io/posts/2025/10/otel-foundations-part-1-what-is-a-signal/): Understanding traces, metrics, logs, and how they fit together.
+- [Pragmatic API Design: Mastering Collections](https://gelerion.github.io/posts/2025/06/pragmatic-api-desing-part-2/): Designing collection APIs that stay usable as systems grow.
 
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=java,scala,python,aws,kubernetes,docker,terraform,argocd,kafka,spark,flink,airflow,iceberg,delta,clickhouse,druid,postgresql,databricks,emr,spring,hibernate,prometheus,grafana,elasticsearch,jenkins,git"
-    />
-  </a>
+  <sub>More articles and engineering notes at <a href="https://gelerion.github.io/">gelerion.github.io</a></sub>
 </p>
--->  
----
-  
-## 📬 Connect
-| &nbsp; | &nbsp; |
-|:--|:--|
-| 🌐 Blog | <https://gelerion.github.io/> |
-| 💼 LinkedIn | <https://www.linkedin.com/in/denisshuvalov/> |
-| 🗨️ Stack Overflow | <https://stackoverflow.com/users/6350670/gelerion> |
-  
----
-  
+
+
 ## 📊 GitHub Stats
-<!-- Use the GitHub Readme Stats service or your favourite variant -->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gelerion&show_icons=true&include_all_commits=true&theme=default" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gelerion&layout=compact&hide_border=true" alt="Top languages"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Gelerion&show_icons=true&include_all_commits=true&theme=default"
+    height="165"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gelerion&layout=compact&hide_border=true"
+    height="165"
+    alt="Top languages"
+  />
 </p>
-
----
-
-_🚀 Dive into the code, open an issue, or just say hi—contributions and conversations are always welcome!_
 
 
 <!--
@@ -90,7 +70,6 @@ _🚀 Dive into the code, open an issue, or just say hi—contributions and conv
 </picture>
 -->
 
----
 <!--
 **Gelerion/Gelerion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
