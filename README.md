@@ -12,24 +12,24 @@
   <img src="https://img.shields.io/badge/coffee%20consumed-∞-yellow" alt="Coffee">
 </p>
 
-I work on AI agent architecture and security, with a background in distributed systems, JVM engineering, and real-time data platforms. On the blog I write about the trade-offs and failure modes that show up when these systems reach production.
+I work on AI agent architecture and security, with a background in distributed systems, JVM engineering, and real-time data platforms. On the blog I write about the trade-offs and failure modes that show up when these systems reach production
 
 ## What I Build & Explore
 
-- **AI agents and security:** Agent runtimes, memory and context engineering, authorization, tool security, and evaluation.
-- **Distributed systems and API:s** Cloud-native services, event-driven architecture, resilience, and practical API design.
-- **Streaming and data platforms:** Kafka, CDC, Spark, Flink, and real-time analytics.
-- **JVM internals and performance:** Java, Scala, concurrency, profiling, and runtime optimization.
+- **AI agents and security:** Agent runtimes, memory and context engineering, authorization, tool security, and evaluation
+- **Distributed systems and API:s** Cloud-native services, event-driven architecture, resilience, and practical API design
+- **Streaming and data platforms:** Kafka, CDC, Spark, Flink, and real-time analytics
+- **JVM internals and performance:** Java, Scala, concurrency, profiling, and runtime optimization
 
 ## Selected projects
 
 | Project | Description |
 | --- | --- |
-| [traffic-replay](https://github.com/Gelerion/traffic-replay) | Replay HTTP traffic from Kafka into test environments for load testing and system validation. |
-| [spark-sketches](https://github.com/Gelerion/spark-sketches) | Approximate distinct counting in Apache Spark using probabilistic DataSketches. |
-| [otel-playground](https://github.com/Gelerion/otel-playground) | Hands-on experiments with OpenTelemetry and manual instrumentation. |
-| [security-in-action-natter-api](https://github.com/Gelerion/security-in-action-natter-api) | Examples of API security, access control, and cryptography. |
-| [spark-bin-packing-partitioner](https://github.com/Gelerion/spark-bin-packing-partitioner) | Bin-packing approaches to reducing data skew in Spark. |
+| [traffic-replay](https://github.com/Gelerion/traffic-replay) | Replay HTTP traffic from Kafka into test environments for load testing and system validation |
+| [spark-sketches](https://github.com/Gelerion/spark-sketches) | Approximate distinct counting in Apache Spark using probabilistic DataSketches |
+| [otel-playground](https://github.com/Gelerion/otel-playground) | Hands-on experiments with OpenTelemetry and manual instrumentation |
+| [security-in-action-natter-api](https://github.com/Gelerion/security-in-action-natter-api) | Examples of API security, access control, and cryptography |
+| [spark-bin-packing-partitioner](https://github.com/Gelerion/spark-bin-packing-partitioner) | Bin-packing approaches to reducing data skew in Spark |
 
 <p align="center">
    <sub>Explore all repositories at <a href="https://github.com/Gelerion?tab=repositories">github.com/gelerion</a></sub>
@@ -37,9 +37,9 @@ I work on AI agent architecture and security, with a background in distributed s
 
 ## From the blog
 
-- [Beyond Conversation History: Building Reliable Memory for AI Agents](https://gelerion.github.io/posts/2026/11/beyond-conversation-history-reliable-memory-for-ai-agents/): Designing a runtime memory layer that carries useful knowledge across sessions.
-- [OpenTelemetry Foundations: What Is a Signal?](https://gelerion.github.io/posts/2025/10/otel-foundations-part-1-what-is-a-signal/): Understanding traces, metrics, logs, and how they fit together.
-- [Pragmatic API Design: Mastering Collections](https://gelerion.github.io/posts/2025/06/pragmatic-api-desing-part-2/): Designing collection APIs that stay usable as systems grow.
+- [Beyond Conversation History: Building Reliable Memory for AI Agents](https://gelerion.github.io/posts/2026/11/beyond-conversation-history-reliable-memory-for-ai-agents/): Designing a runtime memory layer that carries useful knowledge across sessions
+- [OpenTelemetry Foundations: What Is a Signal?](https://gelerion.github.io/posts/2025/10/otel-foundations-part-1-what-is-a-signal/): Understanding traces, metrics, logs, and how they fit together
+- [Pragmatic API Design: Mastering Collections](https://gelerion.github.io/posts/2025/06/pragmatic-api-desing-part-2/): Designing collection APIs that stay usable as systems grow
 
 <p align="center">
   <sub>More articles and engineering notes at <a href="https://gelerion.github.io/">gelerion.github.io</a></sub>
