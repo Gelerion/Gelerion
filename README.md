@@ -12,9 +12,7 @@
   <img src="https://img.shields.io/badge/coffee%20consumed-∞-yellow" alt="Coffee">
 </p>
 
-I design and build systems that need to be reliable and secure at scale, from data-intensive applications and streaming platforms to the infrastructure behind production AI agents.
-
-Most of my current work focuses on AI agent architecture and security. My background is in distributed systems, JVM engineering, and real-time data platforms. I also write about the design choices, trade-offs, and failure modes that come with taking systems to production.
+I work on AI agent architecture and security, with a background in distributed systems, JVM engineering, and real-time data platforms. On the blog I write about the trade-offs and failure modes that show up when these systems reach production.
 
 ## What I work on
 
