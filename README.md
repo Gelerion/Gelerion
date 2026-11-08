@@ -31,7 +31,9 @@ I work on AI agent architecture and security, with a background in distributed s
 | [security-in-action-natter-api](https://github.com/Gelerion/security-in-action-natter-api) | Examples of API security, access control, and cryptography. |
 | [spark-bin-packing-partitioner](https://github.com/Gelerion/spark-bin-packing-partitioner) | Bin-packing approaches to reducing data skew in Spark. |
 
-[Explore all repositories](https://github.com/Gelerion?tab=repositories)
+<p align="center">
+   <sub>Explore all repositories at <a href="https://github.com/Gelerion?tab=repositories">github.com/gelerion</a></sub>
+</p>
 
 ## From the blog
 
